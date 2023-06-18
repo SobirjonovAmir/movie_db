@@ -69,7 +69,7 @@ export let movies = [
 		}
 		],
 		"Metascore": "67",
-		"	": "7.6",
+		"imdbRating": "7.6",
 		"imdbVotes": "573,212",
 		"imdbID": "tt3896198",
 		"Type": "movie",
